@@ -1,4 +1,4 @@
-# 🔐 Password Manager Enhanced
+#  Password Manager Enhanced
 
 ![Python](https://img.shields.io/badge/python-3.10+-blue.svg)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
@@ -9,7 +9,7 @@ This project is an **enhanced version** of my older password manager — redesig
 
 ---
 
-## 📌 About The Project
+##  About The Project
 
 This password manager is fully **offline**, lightweight, and built with a **privacy-first mindset**.  
 All your data is **stored locally** in an encrypted format.  
@@ -17,18 +17,18 @@ You’re free to **fork, improve, or adapt** this project however you like.
 
 ---
 
-## ✨ Key Features
+##  Key Features
 
-- 🔑 **Master Password Login** – enter a password to access the app
-- 🔒 **AES Encryption** – strong encryption using Python's cryptography libraries
-- 📋 **Copy to Clipboard** – securely copy passwords without showing them
-- 🗒️ **Secure Notes** – add personal notes with each entry
-- 🧹 **Secure Wipe** – optional kill switch to delete all saved data
-- 🖥️ **Clean GUI** – intuitive interface using PySide6
+-  **Master Password Login** – enter a password to access the app
+-  **AES Encryption** – strong encryption using Python's cryptography libraries
+-  **Copy to Clipboard** – securely copy passwords without showing them
+-  **Secure Notes** – add personal notes with each entry
+-  **Secure Wipe** – optional kill switch to delete all saved data
+-  **Clean GUI** – intuitive interface using PySide6
 
 ---
 ذ
-## 💻 Tech Stack
+##  Tech Stack
 
 - **Python 3.10+**
 - **PySide6**
@@ -36,7 +36,7 @@ You’re free to **fork, improve, or adapt** this project however you like.
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 Make sure you have Python 3.10 or newer installed:
